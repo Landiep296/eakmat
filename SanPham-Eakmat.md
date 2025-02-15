@@ -1,7 +1,7 @@
 # Danh Sách Sản Phẩm Trên Eakmat.vn
 
 ## 1. Cây Cà Phê
-- [Cà phê TR4](https://eakmat.vn/san-pham/giong-cay-ca-phe-tr4)
+- [Cà phê TR4] - [Xem chi tiết(https://eakmat.vn/san-pham/giong-cay-ca-phe-tr4)
 - [Cà phê TR9](https://eakmat.vn/san-pham/giong-cay-ca-phe-voi-tr9)
 - [Cà phê TRS1 F1](https://eakmat.vn/san-pham/hat-giong-ca-phe)
 
